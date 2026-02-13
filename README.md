@@ -1,8 +1,5 @@
 # Analisis Mendalam Kampanye Lumma Stealer Menggunakan Framework Cyber Kill Chain
 
-**Author:** Abhista Kumara Pratama  
-Cyber Security Enthusiast 
-
 ---
 
 ## 1. Pendahuluan
